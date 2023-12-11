@@ -7,7 +7,6 @@ def main():
     test_default()
 
 def test_default():
-    hello()
     assert hello() == "Hello, World"
 
 def test_argument():
