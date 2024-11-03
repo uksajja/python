@@ -10,9 +10,9 @@ def titlecase():
     print(f"Name: {name}")
     
 def capitalize():
-    # capitalize only capitalizes only the first letter of the string
+    # capitalizes only the first letter of the string
     sentence = input ("sentence:?").capitalize()
-    print(f"Capsentence: {sentence}")
+    print(f"Capitalized sentence: {sentence}")
 
     
 def splitExample():

@@ -7,7 +7,7 @@ while True:
     x = random.randint(1, 10)
     print(f"x is : {x}")
     if x==5:
-        print(f"Fianlly x is 5")
+        print(f"Finally x is 5")
         break
 cards = ["jack", "queen", "king"]
 #shuffle()
